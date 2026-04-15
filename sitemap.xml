@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tryneuroapp.com/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://tryneuroapp.com/assets/screenshots/01-dashboard.png</image:loc>
+      <image:title>Neuro app dashboard with streak tracker</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tryneuroapp.com/assets/screenshots/02-ai-coach.png</image:loc>
+      <image:title>Neuro AI Recovery Coach</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tryneuroapp.com/assets/screenshots/03-panic-button.png</image:loc>
+      <image:title>Neuro Panic Button for urge relief</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tryneuroapp.com/assets/screenshots/04-program.png</image:loc>
+      <image:title>Neuro 90-day brain rewiring program</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tryneuroapp.com/assets/og-image.png</image:loc>
+      <image:title>Neuro - Quit Porn App</image:title>
+    </image:image>
+  </url>
+</urlset>
